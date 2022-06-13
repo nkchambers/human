@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nick8\\Desktop\\C#\\human\\human.csproj": {}
+    "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\human\\human.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nick8\\Desktop\\C#\\human\\human.csproj": {
+    "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\human\\human.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nick8\\Desktop\\C#\\human\\human.csproj",
+        "projectUniqueName": "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\human\\human.csproj",
         "projectName": "human",
-        "projectPath": "C:\\Users\\nick8\\Desktop\\C#\\human\\human.csproj",
+        "projectPath": "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\human\\human.csproj",
         "packagesPath": "C:\\Users\\nick8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nick8\\Desktop\\C#\\human\\obj\\",
+        "outputPath": "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\human\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nick8\\AppData\\Roaming\\NuGet\\NuGet.Config"
